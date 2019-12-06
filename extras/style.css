@@ -1,0 +1,33 @@
+form {
+    width: 90%;
+    margin: 0 auto;
+}
+
+input { /* all input on a page */
+    width: 15%;  /* width of input */
+    padding: .175rem .125rem; /* size of input */
+    font-size: 0.8rem; /* font of input text */
+    line-height: 1; /* line height */
+    border-radius: .25rem; /* radius of border */
+    border-color: blueviolet; /* color of border */
+}
+
+
+select {
+    text-align: center;
+}
+
+button {
+    display: inline-block;  /* is a block */
+    color: #000000;  /* color of button text */
+    /*background-color: #34eec5;*/
+    text-align: center;  /* align text to center */
+    padding: .175rem .45rem;  /* size of a button */
+    font-size: 0.8rem;  /* size of font */
+    border-radius: .25rem;  /* radius of border */
+    border-color: blueviolet; /* color of border */
+}
+
+select {
+    border-color: blueviolet;
+}
