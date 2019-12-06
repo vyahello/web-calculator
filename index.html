@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en-us" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Calculator</title>
+        <link rel="stylesheet" href="extras/style.css">
+        <script src="script/calculator.js"></script>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+    </head>
+    <body>
+        <form>
+            Value 1: <input type="number" id="value1" required placeholder="number"><br><br>
+            Value 2: <input type="number" id="value2" required placeholder="number"><br><br>
+            Operator:
+            <select id="operator">
+                <option value="add">Add</option>
+                <option value="subtract">Subtract</option>
+                <option value="divide">Divide</option>
+                <option value="multiply">Multiply</option>
+            </select>
+            <button type="button" onclick="calculator()">Calculate</button><br><br>
+            Result: <div id="result"></div>
+        </form>
+    </body>
+</html>

@@ -1,7 +1,13 @@
 # Web calculator
-> A simple web calculator right in your browser using `html5` and `javascript` tools.
+> A simple web calculator right in your browser using `html5`, `css` and `javascript` tools.
 
 It was made in easy-way just for fun!
+
+## Usage
+
+Open `index.html` file in your browser.
+
+![Screenshot](extras/calculator.png)
 
 ## Meta
 
