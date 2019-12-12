@@ -1,3 +1,5 @@
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.md)
+
 # Web calculator
 > A simple web calculator right in your browser using `html5`, `css` and `javascript` tools.
 
