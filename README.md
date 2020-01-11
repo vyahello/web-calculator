@@ -1,15 +1,26 @@
+
+[![Forks](https://img.shields.io/github/forks/vyahello/web-calculator)](https://github.com/vyahello/web-calculator/network/members)
+[![Stars](https://img.shields.io/github/stars/vyahello/web-calculator)](https://github.com/vyahello/async-weather-api/stargazers)
+[![Issues](https://img.shields.io/github/issues/vyahello/web-calculator)](https://github.com/vyahello/web-calculator/issues)
+[![GitHub watchers](https://img.shields.io/github/watchers/vyahello/web-calculator.svg)](https://GitHub.com/vyahello/web-calculator/graphs/watchers/)
+[![GitHub contributors](https://img.shields.io/github/contributors/vyahello/web-calculator.svg)](https://GitHub.com/vyahello/web-calculator/graphs/contributors/)
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE.md)
 
 # Web calculator
-> A simple web calculator right in your browser using `html5`, `css` and `javascript` tools.
-
-It was made in easy-way just for fun!
+> A simple web calculator right in your browser using `html5`, `css` and **vanilla** `javascript` tools.
+>
+>It was made in easy-way just for fun!
 
 ## Usage
 
-Open `index.html` file in your browser.
+- Open [calcOne.html](calcOne.html) file in your browser.
 
-![Screenshot](extras/calculator.png)
+![Screenshot](extras/calculatorOne.png)
+
+- Open [calcTwo.html](calcTwo.html) file in your browser.
+
+![Screenshot](extras/calculatorTwo.png)
 
 ## Meta
 
